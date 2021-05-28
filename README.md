@@ -5,11 +5,11 @@
 - Depois de um dado inserido, pergunta se deseja continuar;
 - No final, o programa informa quantas pessoas foram cadastradas e informa quais foram os maiores e os menores pesos. 
 
-'''
-*Lista simples
-*Lista composta
-*While True
-*For
 
-''' 
+####### Lista simples
+####### Lista composta
+####### While True
+####### For
+
+
 
